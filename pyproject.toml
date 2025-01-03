@@ -1,0 +1,14 @@
+[build-system]
+requires = ["hatchling==1.18.0", "uv"]
+build-backend = "hatchling.build"
+
+[project]
+name = "streamlit_template"
+version = "0.1.0"
+description = "A simple Streamlit project"
+requires-python = ">=3.12"
+
+dependencies = [
+  "streamlit"
+]
+
