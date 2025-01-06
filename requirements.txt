@@ -1,0 +1,42 @@
+streamlit
+kubernetes
+
+# Geospatial libraries
+geopandas
+shapely
+pyproj
+folium
+streamlit-folium
+
+# For working with data
+pandas
+numpy
+openpyxl  # For Excel file support
+xlrd  # For older Excel file formats
+pyarrow  # For reading/writing Parquet files
+
+# Visualization libraries
+matplotlib
+seaborn
+plotly
+streamlit-plotly-events
+
+# APIs and web scraping
+requests
+
+# Machine learning and data processing
+# For handling JSON and APIs
+jsonschema
+
+# Handling large datasets
+
+# Interactive widgets in Streamlit
+streamlit-aggrid
+streamlit-option-menu
+
+# Additional geospatial tools
+fiona
+rasterio
+
+# For handling and parsing time-series data
+dateparser
